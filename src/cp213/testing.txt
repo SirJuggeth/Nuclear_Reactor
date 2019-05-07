@@ -1,0 +1,11 @@
+Q1
+
+The reactor will never melt down if the initial 
+temperature is 25 because it will automatically shutdown.
+
+Q2
+really fast
+
+Q3
+
+about 487 degrees initial temp can be set with initial rod length of 50 that won't cause the reactor to meltdown.
