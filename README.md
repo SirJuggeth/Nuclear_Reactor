@@ -1,3 +1,4 @@
 # Nuclear_Reactor
 
-Game to try and get the reactor to remain stable as long as you can by choosing initial reactor core temp and cooling rod insertion length, then choosing auto-run or to try and manually keep it stable.
+Try to keep the reactor stable for as long as you can.
+Start by choosing initial reactor core temp and cooling rod insertion length, then you can auto-run or to try to keep it stable manually.
