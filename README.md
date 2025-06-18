@@ -1,6 +1,6 @@
 # Nuclear_Reactor
 
-To run:
+To run:  
 &nbsp;&nbsp;From project folder, execute these commands in Windows cmd terminal:
 
   :: Compile all .java files
