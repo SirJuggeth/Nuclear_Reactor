@@ -1,4 +1,4 @@
-"""# Nuclear_Reactor
+# Nuclear_Reactor
 
 To run:
   From project folder, execute these commands in Windows cmd terminal:
@@ -23,4 +23,3 @@ Setup:
   Safe starting settings:  
     Initial temperature: 30  
     Initial rod insertion length: 0
-"""
