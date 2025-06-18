@@ -2,9 +2,12 @@
 
 To run:
   From project folder, execute these commands in Windows cmd terminal:
-  
-  for /R src %f in (*.java) do javac -d bin "%f"
-  java -cp bin cp213.Main
+
+  :: Compile all .java files
+  > for /R src %f in (*.java) do javac -d bin "%f"
+
+  :: Run the main class
+  > java -cp bin cp213.Main
 
 Objective:
   Try to keep the reactor stable for as long as you can (number of days).
