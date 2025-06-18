@@ -1,7 +1,7 @@
 # Nuclear_Reactor
 
 To run:
-  From project folder, execute these commands in Windows cmd terminal:
+&nbsp;&nbsp;From project folder, execute these commands in Windows cmd terminal:
 
   :: Compile all .java files
   > for /R src %f in (*.java) do javac -d bin "%f"
