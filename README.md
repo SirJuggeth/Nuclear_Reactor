@@ -14,7 +14,7 @@ Objective:
 
 Setup:  
   &nbsp;&nbsp;Start by choosing initial reactor core temperature (between 0-1000) and cooling rod insertion length (between 0-200).   
-  &nbsp;&nbsp;You can choose auto-run, and watch the AI make adjustments, or to try to keep it stable manually.
+  &nbsp;&nbsp;You can choose auto-run and watch the AI make adjustments, or to try to keep it stable manually.
 
   &nbsp;&nbsp;Power is produced between temperatures of 25-100.  
   &nbsp;&nbsp;Plant shutsdown if rods are inserted to 200 or if temps are below 25.  
